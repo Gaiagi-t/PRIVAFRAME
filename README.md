@@ -32,7 +32,7 @@ A test-set used as model evaluation is attached. The test-set is composed of 367
 
 To download the py code and the dataset you have to sign an agreement of ethical research purposes. You can find the agreement doc in this repository.
 
-Once the corresponding license agreement is signed, you have to send it to gaia.gambarelli2@unibo.it.
+Once the corresponding license agreement is signed, you have to send it to gaiagambarelli@gmail.com .
 
 Subject: [PRIVAFRAME download]
 
